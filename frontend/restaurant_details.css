@@ -1,0 +1,25 @@
+#restaurant-details {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+#restaurant-details center h1 {
+    color: #333;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+#restaurant-details p {
+    color: #555;
+    font-size: larger;
+    line-height: 1.5;
+}
+
+#restaurant-details p strong {
+    color: #333;
+    font-weight: bold;
+    font-size: larger;
+}

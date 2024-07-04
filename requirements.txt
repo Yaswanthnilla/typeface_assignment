@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+psycopg2
+flask
+kaggle
+flask-cors

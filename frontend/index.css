@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.restaurant-table {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.restaurant-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.restaurant-item {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+button {
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px 10px;
+    background-color: green;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.button-class {
+    width: 150px;
+    height: 50px;
+    background-color: green;
+
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#page-info{
+    font-weight: bold;
+    font-size: larger;
+}
